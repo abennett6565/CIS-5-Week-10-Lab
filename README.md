@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Show `x` and `y` before and after the swap, explain why the `&` lets `swap_values` change `main`'s variables, then show the pointer read.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/1B1Vz4tS3KGKhl9vsj1TytZO6TS5H9MJy/view?usp=sharing
 
 
 ## Scenario
@@ -33,7 +33,7 @@ Use `main.cpp`. Put your name in the file-top comment. `swap_values` is sketched
 
 ## Environment
 
-VS 2022 · **GitHub Codespaces** · Replit · library machines
+VSCode · **g++** · home pc
 
 ## Procedure
 
